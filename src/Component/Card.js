@@ -3,7 +3,6 @@ import React from "react";
 export default function Card (){
     return(
         <div className="card"> 
-        
             <img className="img-card" alt="person" src="https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png"/>
             <h4>Mohamad Sheikh Alshabab</h4>
             <h5>Frontend Developer</h5>
